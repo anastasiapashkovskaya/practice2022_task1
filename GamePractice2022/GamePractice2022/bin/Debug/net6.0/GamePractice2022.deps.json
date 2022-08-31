@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GamePractice2022/1.0.0": {
+        "dependencies": {
+          "LibraryPractice": "1.0.0"
+        },
+        "runtime": {
+          "GamePractice2022.dll": {}
+        }
+      },
+      "LibraryPractice/1.0.0": {
+        "runtime": {
+          "LibraryPractice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GamePractice2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

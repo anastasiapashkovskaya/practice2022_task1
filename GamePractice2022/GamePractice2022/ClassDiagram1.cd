@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GamePractice2022.CreatingGame">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="GamePractice2022.Ocean" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.562" Y="3.786" />
+        <Point X="3.562" Y="5.312" />
+        <Point X="2.25" Y="5.312" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CreationGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePractice2022.DefaultData">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <InheritanceLine Type="System.Object" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.75" Y="1.5" />
+        <Point X="11.75" Y="0.27" />
+        <Point X="1.562" Y="0.27" />
+        <Point X="1.562" Y="0.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AICAAAAACCkAAAAQAAAAAgCAEAABAAAAAAVgAAAAAAA=</HashCode>
+      <FileName>DefaultData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePractice2022.Ocean">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <InheritanceLine Type="System.Object" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.375" Y="1.5" />
+        <Point X="11.375" Y="0.41" />
+        <Point X="5.107" Y="0.41" />
+        <Point X="5.107" Y="4.026" />
+        <Point X="4.25" Y="4.026" />
+        <Point X="4.25" Y="3.786" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAACAAAAAAIAQAAACAAAAAAAACAAwCAAAQAI=</HashCode>
+      <FileName>Ocean.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePractice2022.Program">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="System.Object" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.938" Y="3.95" />
+        <Point X="10.938" Y="5.375" />
+        <Point X="9.25" Y="5.375" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePractice2022.QuestionGuest">
+    <Position X="5.5" Y="0.75" Width="1.75" />
+    <InheritanceLine Type="System.Object" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11" Y="1.5" />
+        <Point X="11" Y="0.649" />
+        <Point X="7.625" Y="0.649" />
+        <Point X="7.625" Y="1.062" />
+        <Point X="7.25" Y="1.062" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QuestionGuest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryPractice.AddHero">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="LibraryPractice.MovingCell">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="LibraryPractice.WorkingWithArray">
+    <Position X="7.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="GamePractice2022.ICreateField">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICreateField.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

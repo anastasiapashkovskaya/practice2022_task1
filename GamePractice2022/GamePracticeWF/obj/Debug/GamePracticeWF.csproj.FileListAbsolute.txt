@@ -1,0 +1,15 @@
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\bin\Debug\GamePracticeWF.exe.config
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\bin\Debug\GamePracticeWF.exe
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\bin\Debug\GamePracticeWF.pdb
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\obj\Debug\GamePracticeWF.csproj.AssemblyReference.cache
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\obj\Debug\GamePracticeWF.csproj.SuggestedBindingRedirects.cache
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\obj\Debug\GamePracticeWF.Form1.resources
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\obj\Debug\GamePracticeWF.Properties.Resources.resources
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\obj\Debug\GamePracticeWF.csproj.GenerateResource.cache
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\obj\Debug\GamePracticeWF.csproj.CoreCompileInputs.cache
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\obj\Debug\GamePracticeWF.exe
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\obj\Debug\GamePracticeWF.pdb
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\obj\Debug\GamePracticeWF.FormStartGame.resources
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\bin\Debug\LibraryPractice.dll
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\bin\Debug\LibraryPractice.pdb
+D:\uni\practice 2022\GamePractice2022\GamePracticeWF\obj\Debug\GamePracticeWF.csproj.CopyComplete

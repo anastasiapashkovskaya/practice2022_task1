@@ -1,0 +1,6 @@
+D:\uni\practice 2022\LibraryPractice\LibraryPractice\bin\Debug\LibraryPractice.dll
+D:\uni\practice 2022\LibraryPractice\LibraryPractice\bin\Debug\LibraryPractice.pdb
+D:\uni\practice 2022\LibraryPractice\LibraryPractice\obj\Debug\LibraryPractice.csproj.AssemblyReference.cache
+D:\uni\practice 2022\LibraryPractice\LibraryPractice\obj\Debug\LibraryPractice.csproj.CoreCompileInputs.cache
+D:\uni\practice 2022\LibraryPractice\LibraryPractice\obj\Debug\LibraryPractice.dll
+D:\uni\practice 2022\LibraryPractice\LibraryPractice\obj\Debug\LibraryPractice.pdb
